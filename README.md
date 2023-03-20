@@ -1,4 +1,4 @@
-# WaterDispenserSystem
+# Water Dispenser System
 
 A water dispenser system is an automated device that provides a convenient way for people to access clean drinking water. These systems typically consist of a water container or reservoir, a dispensing mechanism, and a control unit. The control unit can be operated using various methods, such as push buttons, touchscreens, or RFID (Radio Frequency Identification) cards.
 
